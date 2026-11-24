@@ -17,6 +17,7 @@
 |---|---|
 | [v100-field-notes](https://github.com/eightpaws/v100-field-notes) | Замеры локального ИИ на Tesla V100: 12 закрытых экспериментов, сырые данные по каждому прогону, включая неудачные |
 | [onprem-llm-closed-loop](https://github.com/eightpaws/onprem-llm-closed-loop) | Стенд ИИ без выхода в интернет: docker compose с сетью `internal`, скрипт проверки изоляции, чек-лист закрытого контура, правила выбора модели |
+| [it-infra-audit-kit](https://github.com/eightpaws/it-infra-audit-kit) | Аудит домена, гипервизора и бэкапов: PowerShell и bash, только чтение, отчёт с уровнями риска и список грабель, из-за которых аудит врёт |
 
 ## Принцип
 
