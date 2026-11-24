@@ -16,6 +16,7 @@
 | Репозиторий | Что доказывает |
 |---|---|
 | [v100-field-notes](https://github.com/eightpaws/v100-field-notes) | Замеры локального ИИ на Tesla V100: 12 закрытых экспериментов, сырые данные по каждому прогону, включая неудачные |
+| [onprem-llm-closed-loop](https://github.com/eightpaws/onprem-llm-closed-loop) | Стенд ИИ без выхода в интернет: docker compose с сетью `internal`, скрипт проверки изоляции, чек-лист закрытого контура, правила выбора модели |
 
 ## Принцип
 
